@@ -1,8 +1,4 @@
 {
-  "valid": false,
-  "key": "robotnik-2025",
-  "allowed_domains": [
-    "brightboxhomes.com",
-    "159593-bd.myshopify.com"
-  ]
+  "valid": true,
+  "key": "robotnik-2025"
 }
