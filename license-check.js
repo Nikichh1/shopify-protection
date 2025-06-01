@@ -10,5 +10,3 @@ fetch("https://yourname.github.io/shopify-protection/license.json")
     document.body.innerHTML = "";
     console.error("License check failed.");
   });
-
-window.__robotnik_license = "active";
