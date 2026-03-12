@@ -23,6 +23,8 @@ function licenseCallback(data) {
       </div>
     `;
 
+    document.body.style.overflow = "hidden";
+
     document.body.appendChild(overlay);
 
     console.warn("Invalid license.");
