@@ -1,5 +1,5 @@
 function licenseCallback(data) {
-  if (!data.valid || data.key !== "robotnik-2025") {
+  if (!data.valid || data.key !== "robotnik-202") {
     document.body.innerHTML = "";
     console.warn("Invalid license.");
   }
