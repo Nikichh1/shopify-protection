@@ -1,5 +1,5 @@
 function licenseCallback(data) {
-  if (!data.valid || data.key !== "robotnik-2025") {
+  if (!data.valid || data.key !== "robotnik-225") {
 
     const overlay = document.createElement("div");
     overlay.style.position = "fixed";
