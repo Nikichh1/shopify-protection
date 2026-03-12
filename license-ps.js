@@ -1,4 +1,4 @@
 licenseCallback({
-  "valid": true,
+  "valid": false,
   "key": "robotnik-2025"
 });
