@@ -16,11 +16,6 @@ function licenseCallback(data) {
     overlay.style.fontFamily = "Arial, sans-serif";
 
     overlay.innerHTML = `
-      <div style="text-align:center;max-width:500px;padding:20px;">
-        <h2>Theme License Required</h2>
-        <p>This theme requires a valid license to operate.</p>
-        <p>Please update or activate your license to restore full functionality.</p>
-      </div>
     `;
 
     document.body.style.overflow = "hidden";
